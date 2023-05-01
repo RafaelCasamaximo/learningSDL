@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/rfc/Documents/learningSDL/template-complete/build",
-  "command": "/usr/bin/c++  -I/home/rfc/Documents/learningSDL/template-complete/include -isystem /usr/local/include/SDL2 -isystem /usr/include/SDL2 -Wall -Wextra -Wpedantic -o CMakeFiles/sdl2-template.dir/src/main.cpp.o -c /home/rfc/Documents/learningSDL/template-complete/src/main.cpp",
-  "file": "/home/rfc/Documents/learningSDL/template-complete/src/main.cpp"
-}
-]

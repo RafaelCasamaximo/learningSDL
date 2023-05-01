@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/rfc/Documents/learningSDL/01/build",
-  "command": "/usr/bin/c++  -isystem /usr/local/include/SDL2  -o CMakeFiles/SDL01.dir/main.cpp.o -c /home/rfc/Documents/learningSDL/01/main.cpp",
-  "file": "/home/rfc/Documents/learningSDL/01/main.cpp"
-}
-]

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/SDL03.dir/main.cpp.o -o SDL03   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSDL2.so 
