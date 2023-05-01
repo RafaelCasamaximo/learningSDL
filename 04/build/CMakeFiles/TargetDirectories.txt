@@ -1,0 +1,3 @@
+/home/rfc/Documents/learningSDL/04/build/CMakeFiles/SDL04.dir
+/home/rfc/Documents/learningSDL/04/build/CMakeFiles/edit_cache.dir
+/home/rfc/Documents/learningSDL/04/build/CMakeFiles/rebuild_cache.dir
